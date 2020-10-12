@@ -188,12 +188,12 @@ $(function() {
 
 		if( document.getElementById('map') ) {
 			var salesDep = new ymaps.Map("map",{
-				center: [48.588931, 135.076344],
+				center: [48.332373, 135.000767],
 				zoom: 16,
 				controls: ['zoomControl'],
 				behaviors: ["drag", "dblClickZoom"]
 			}),
-			depMarker = new ymaps.Placemark([48.588931, 135.076344],{ hintContent: "п. Экопарк Северный" },
+			depMarker = new ymaps.Placemark([48.332373, 135.000767],{ hintContent: "п. Экопарк Южный" },
 			{
 				iconLayout: "default#image",
 				iconImageHref: "../wp-content/themes/ecopark/img/pin.svg",

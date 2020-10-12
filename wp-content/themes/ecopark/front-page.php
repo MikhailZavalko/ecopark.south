@@ -19,7 +19,7 @@ get_header(); ?>
 	<div class="top-content">
 		<div class="div">
 
-			<h1>Коттеджный посёлок <br><span>«Экопарк Северный»</span></h1>
+			<h1>Коттеджный посёлок <br><span>«Экопарк Южный»</span></h1>
 
 			<a href="#take-information" class="top-button ripplelink open-form-button"><span>Узнать Подробнее</span></a>
 
@@ -30,7 +30,7 @@ get_header(); ?>
 						<img src="<?php echo $template_url; ?>/img/top-icon-1.svg" class="img-responsive" alt="icon">
 					</div>
 					<div class="text">
-						<p>2 километра до <br>ост. Полярная</p>
+						<p>Свое озеро и <br>горная речка</p>
 					</div>
 				</div>
 
@@ -48,7 +48,7 @@ get_header(); ?>
 						<img src="<?php echo $template_url; ?>/img/top-icon-5.svg" class="img-responsive" alt="icon">
 					</div>
 					<div class="text">
-						<p>71 <br>участок</p>
+						<p>33 <br>участка</p>
 					</div>
 				</div>
 
@@ -67,12 +67,13 @@ get_header(); ?>
 		<div class="about-text">
 			<div class="text">
 				<h2>О проекте</h2>
-				<div class="image"></div>
+				<a href="<?php echo $template_url; ?>/img/about-img.jpg" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/about-img_sm.jpg) center; background-size: cover;"></a>
 				<ul>
-					<li>Коттеджный поселок "Экопарк Северный" расположен в 2 км. за остановкой Полярная, на дороге ведущей в Виноградовку среди грушевых садов</li>
-					<li>Северный - самый экологический район, это знают все жители Хабаровска</li>
-					<li>Район активно развивается и застраивается коттеджами</li>
-					<li>Всего в 2 км. от поселка начинается городская инфраструктура: школа, детские сады, гипермаркеты, торговые центры.</li>
+					<li>Коттеджный поселок "Экопарк Южный" находится в удивительном месте и другого такого нет. Все кто там был влюбляются с первого взгляда</li>
+					<li>Многим знакомо это место, здесь находится Воздух парк</li>
+					<li>Горная речка, озеро с чистейшей водой, удивительный вид на горы - вот что такое "Экопарк Южный"</li>
+					<li>Располложение на объездной дороге</li>
+					<li>Одна улица вдоль реки, успей купить первую линию</li>
 				</ul>
 			</div>
 			<a href="<?php echo $template_url; ?>/img/about-img.jpg" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/about-img_sm.jpg) center; background-size: cover;"></a>
@@ -92,23 +93,15 @@ get_header(); ?>
 				<div class="icon"><img class="img-responsive" src="<?php echo $template_url; ?>/img/about-icon-2.svg" alt="icon"></div>
 				<div class="text">
 					<h4>Водопровод</h4>
-					<p>Центральная холодная вода</p>
+					<p>Индивидуальная скважина</p>
 				</div>
 			</div>
-
-			<!-- <div class="about-item">
-				<div class="icon"><img class="img-responsive" src="<?php// echo $template_url; ?>/img/about-icon-8.svg" alt="icon"></div>
-				<div class="text">
-					<h4>Безопасность</h4>
-					<p>Огороженная территория</p>
-				</div>
-			</div> -->
 
 			<div class="about-item">
 				<div class="icon"><img class="img-responsive" src="<?php echo $template_url; ?>/img/about-icon-7.svg" alt="icon"></div>
 				<div class="text">
 					<h4>Участок</h4>
-					<p>Собственный участок 10 соток</p>
+					<p>В собственности от 6 до 15 соток</p>
 				</div>
 			</div>
 
@@ -124,7 +117,7 @@ get_header(); ?>
 				<div class="icon"><img class="img-responsive" src="<?php echo $template_url; ?>/img/about-icon-6.svg" alt="icon"></div>
 				<div class="text">
 					<h4>Отопление</h4>
-					<p>Водяной тёплый пол</p>
+					<p>Автономное - электрические радиаторы / водяной тёплый пол</p>
 				</div>
 			</div>
 
@@ -145,7 +138,7 @@ get_header(); ?>
 
 <div class="map-general-section" id="general-plan">
 	<div class="container">
-		<h3 class="type-head">Генплан коттеджного поселка "Экопарк Северный"</h3>
+		<h3 class="type-head">Генплан коттеджного поселка "Экопарк Южный"</h3>
 		<?php// echo do_shortcode('[map]'); ?>
 		<img class="img-responsive" src="<?php echo $template_url; ?>/img/general-plan.png" alt="general plan">
 		<div class="button-container">
@@ -633,13 +626,22 @@ get_header(); ?>
 	<div class="container">
 		<h2>Технология</h2>
 
-		<div class="video-block">
-			<div class="imacWrapper">
-				<img class="img-responsive" src="<?php echo $template_url; ?>/img/mac.png" alt="iMac">
+		<div class="video-blocks">
+
+			<div class="video-block">
+				<h4>Этапы строительства дома Народный</h4>
+				<div class="video">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/6GSTyOiCGRM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
 			</div>
-			<div class="videoWrapper">
-				<iframe src="https://www.youtube.com/embed/OfvZIRqvawY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+			<div class="video-block">
+				<h4>Этапы строительства дома Классика</h4>
+				<div class="video">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/xCbEcFG1MH0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
 			</div>
+
 		</div>
 
 		<div class="text">
