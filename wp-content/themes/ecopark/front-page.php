@@ -139,8 +139,8 @@ get_header(); ?>
 <div class="map-general-section" id="general-plan">
 	<div class="container">
 		<h3 class="type-head">Генплан коттеджного поселка "Экопарк Южный"</h3>
-		<?php// echo do_shortcode('[map]'); ?>
-		<img class="img-responsive" src="<?php echo $template_url; ?>/img/general-plan.png" alt="general plan">
+		<?php echo do_shortcode('[map]'); ?>
+		<!-- <img class="img-responsive" src="<?php// echo $template_url; ?>/img/general-plan.png" alt="general plan"> -->
 		<div class="button-container">
 			<a href="#take-booking" class="top-button ripplelink open-form-button"><span>Забронировать участок</span></a>
 		</div>
