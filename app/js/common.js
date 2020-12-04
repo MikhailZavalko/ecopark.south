@@ -116,6 +116,22 @@ $(function() {
 		speed: 500,
 	});
 
+	$('.about-slider').on('afterChange', function (e, o) {
+		$('iframe').each(function () {
+			$(this)[0].contentWindow.postMessage('{"event":"command","func":"' + 'pauseVideo' + '","args":""}', '*');
+		});
+	}).slick(
+		{
+			slidesToShow: 1,
+			slidesToScroll: 1,
+			arrows: false,
+			dots: true,
+			infinite: false,
+			fade: true,
+			speed: 500
+		}
+	);
+
 	$('.certificates-slider').slick({
 		slidesToShow: 3,
 		slidesToScroll: 1,
