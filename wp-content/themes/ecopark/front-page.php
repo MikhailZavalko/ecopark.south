@@ -295,7 +295,7 @@ get_header(); ?>
 							<li>Окна ПВХ, входная утепленная дверь</li>
 							<li>Стояки хол. воды и канализации, подключение к сетям</li>
 							<li>Внутренняя отделка: без отделки, заделка межпанельных швов, перегородки с/у 1-го этажа из отсевоблока</li>
-							<li>Крыльцо - ковка</li>
+							<li>Крыльцо без ограждения</li>
 							<li>Вентиляция: пластиковый короб в с/у и кухне, выход на кровлю</li>
 						</ul>
 						<h4>Инженерные Сети:</h4>
@@ -311,7 +311,7 @@ get_header(); ?>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
-						<h2>Стоимость: 5.20 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 5.05 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -342,7 +342,7 @@ get_header(); ?>
 							<li>Окна ПВХ, входная утепленная дверь</li>
 							<li>Стояки хол. воды и канализации, подключение к сетям</li>
 							<li>Внутренняя отделка: без отделки, заделка межпанельных швов, перегородки с/у 1-го этажа из отсевоблока</li>
-							<li>Крыльцо - ковка</li>
+							<li>Крыльцо без ограждения</li>
 							<li>Вентиляция: пластиковый короб в с/у и кухне, выход на кровлю</li>
 						</ul>
 						<h4>Инженерные Сети:</h4>
@@ -358,7 +358,7 @@ get_header(); ?>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
-						<h2>Стоимость: 5.70 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 5.50 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -389,7 +389,7 @@ get_header(); ?>
 							<li>Окна ПВХ, входная утепленная дверь</li>
 							<li>Стояки хол. воды и канализации, подключение к сетям</li>
 							<li>Внутренняя отделка: без отделки, заделка межпанельных швов, перегородки с/у 1-го этажа из отсевоблока</li>
-							<li>Крыльцо - ковка</li>
+							<li>Крыльцо без ограждения</li>
 							<li>Вентиляция: пластиковый короб в с/у и кухне, выход на кровлю</li>
 						</ul>
 						<h4>Инженерные Сети:</h4>
@@ -405,7 +405,7 @@ get_header(); ?>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
-						<h2>Стоимость: 6.05 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 5.85 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -435,7 +435,7 @@ get_header(); ?>
 							<li>Окна ПВХ, входная утепленная дверь</li>
 							<li>Стояки хол. воды и канализации, подключение к сетям</li>
 							<li>Внутренняя отделка: без отделки, заделка межпанельных швов, перегородки с/у 1-го этажа из отсевоблока</li>
-							<li>Крыльцо - ковка</li>
+							<li>Крыльцо без ограждения</li>
 							<li>Вентиляция: пластиковый короб в с/у и кухне, выход на кровлю</li>
 						</ul>
 						<h4>Инженерные Сети:</h4>
@@ -451,7 +451,7 @@ get_header(); ?>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
-						<h2>Стоимость: 6.80 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 6.60 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -478,7 +478,7 @@ get_header(); ?>
 
 
 
-<section class="houses-section">
+<!-- <section class="houses-section">
 	<div class="container">
 
 		<div class="tabs houses reverse">
@@ -520,13 +520,13 @@ get_header(); ?>
 
 					<div class="name-image">
 						<h3>Народный дом</h3>
-						<a href="<?php echo $template_url; ?>/img/houses/people_1/1.jpg" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/people_1/sm.jpg) center; background-size: cover;" data-fancybox="house-people_1"></a>
+						<a href="<?php// echo $template_url; ?>/img/houses/people_1/1.jpg" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/houses/people_1/sm.jpg) center; background-size: cover;" data-fancybox="house-people_1"></a>
 						<div class="d-none">
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_1/2.jpg" data-fancybox="house-people_1" data-thumb="<?php echo $template_url; ?>/img/houses/people_1/2.jpg"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_1/3.jpg" data-fancybox="house-people_1" data-thumb="<?php echo $template_url; ?>/img/houses/people_1/3.jpg"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_1/4.jpg" data-fancybox="house-people_1" data-thumb="<?php echo $template_url; ?>/img/houses/people_1/4.jpg"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_1/5.jpg" data-fancybox="house-people_1" data-thumb="<?php echo $template_url; ?>/img/houses/people_1/5.jpg"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_1/scheme.jpg" data-fancybox="house-people_1" data-thumb="<?php echo $template_url; ?>/img/houses/people_1/scheme.jpg"></a>
+							<a class="image fancybox" href="<?php// echo $template_url; ?>/img/houses/people_1/2.jpg" data-fancybox="house-people_1" data-thumb="<?php// echo $template_url; ?>/img/houses/people_1/2.jpg"></a>
+							<a class="image fancybox" href="<?php// echo $template_url; ?>/img/houses/people_1/3.jpg" data-fancybox="house-people_1" data-thumb="<?php// echo $template_url; ?>/img/houses/people_1/3.jpg"></a>
+							<a class="image fancybox" href="<?php// echo $template_url; ?>/img/houses/people_1/4.jpg" data-fancybox="house-people_1" data-thumb="<?php// echo $template_url; ?>/img/houses/people_1/4.jpg"></a>
+							<a class="image fancybox" href="<?php// echo $template_url; ?>/img/houses/people_1/5.jpg" data-fancybox="house-people_1" data-thumb="<?php// echo $template_url; ?>/img/houses/people_1/5.jpg"></a>
+							<a class="image fancybox" href="<?php// echo $template_url; ?>/img/houses/people_1/scheme.jpg" data-fancybox="house-people_1" data-thumb="<?php// echo $template_url; ?>/img/houses/people_1/scheme.jpg"></a>
 						</div>
 					</div>
 
@@ -568,13 +568,13 @@ get_header(); ?>
 
 					<div class="name-image">
 						<h3>Народный дом</h3>
-						<a href="<?php echo $template_url; ?>/img/houses/people_2/1.jpg?v=1.4" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/people_2/sm.jpg?v=1.4) center; background-size: cover;" data-fancybox="house-people_2"></a>
+						<a href="<?php// echo $template_url; ?>/img/houses/people_2/1.jpg?v=1.4" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/houses/people_2/sm.jpg?v=1.4) center; background-size: cover;" data-fancybox="house-people_2"></a>
 						<div class="d-none">
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_2/2.jpg?v=1.4" data-fancybox="house-people_2" data-thumb="<?php echo $template_url; ?>/img/houses/people_2/2.jpg?v=1.4"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_2/3.jpg?v=1.4" data-fancybox="house-people_2" data-thumb="<?php echo $template_url; ?>/img/houses/people_2/3.jpg?v=1.4"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_2/4.jpg?v=1.4" data-fancybox="house-people_2" data-thumb="<?php echo $template_url; ?>/img/houses/people_2/4.jpg?v=1.4"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_2/5.jpg?v=1.4" data-fancybox="house-people_2" data-thumb="<?php echo $template_url; ?>/img/houses/people_2/5.jpg?v=1.4"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/people_2/scheme.jpg?v=1.4" data-fancybox="house-people_2" data-thumb="<?php echo $template_url; ?>/img/houses/people_2/scheme.jp?v=1.4g"></a>
+							<a class="image fancybox" href="<?php// echo $template_url; ?>/img/houses/people_2/2.jpg?v=1.4" data-fancybox="house-people_2" data-thumb="<?php// echo $template_url; ?>/img/houses/people_2/2.jpg?v=1.4"></a>
+							<a class="image fancybox" href="<?php// echo $template_url; ?>/img/houses/people_2/3.jpg?v=1.4" data-fancybox="house-people_2" data-thumb="<?php// echo $template_url; ?>/img/houses/people_2/3.jpg?v=1.4"></a>
+							<a class="image fancybox" href="<?php// echo $template_url; ?>/img/houses/people_2/4.jpg?v=1.4" data-fancybox="house-people_2" data-thumb="<?php// echo $template_url; ?>/img/houses/people_2/4.jpg?v=1.4"></a>
+							<a class="image fancybox" href="<?php// echo $template_url; ?>/img/houses/people_2/5.jpg?v=1.4" data-fancybox="house-people_2" data-thumb="<?php// echo $template_url; ?>/img/houses/people_2/5.jpg?v=1.4"></a>
+							<a class="image fancybox" href="<?php// echo $template_url; ?>/img/houses/people_2/scheme.jpg?v=1.4" data-fancybox="house-people_2" data-thumb="<?php// echo $template_url; ?>/img/houses/people_2/scheme.jp?v=1.4g"></a>
 						</div>
 					</div>
 
@@ -593,7 +593,7 @@ get_header(); ?>
 	</div>
 
 </section>
-
+ -->
 
 
 
@@ -659,7 +659,7 @@ get_header(); ?>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
-						<h2>Стоимость: 4.95 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 5.02 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -707,7 +707,7 @@ get_header(); ?>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
-						<h2>Стоимость: 5.65 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 5.82 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -755,7 +755,7 @@ get_header(); ?>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
-						<h2>Стоимость: 6.40 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 6.62 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
@@ -803,7 +803,7 @@ get_header(); ?>
 							<li>Дорога внутриквартальная</li>
 							<li>Освещение поселка</li>
 						</ul>
-						<h2>Стоимость: 7.69 <small>млн. ₽</small></h2>
+						<h2>Стоимость: 7.87 <small>млн. ₽</small></h2>
 					</div>
 
 				</div>
