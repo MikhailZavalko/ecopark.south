@@ -409,7 +409,7 @@ p
 	.about-text
 		display: grid
 		grid-template-columns: auto 663px
-		margin-bottom: 130px
+		margin-bottom: 90px
 		.text
 			margin-right: 90px
 			.image
@@ -426,8 +426,6 @@ p
 			display: none
 	.about-slider
 		.slide-item
-			width: 663px
-			height: 372px
 			.image
 				display: block
 				box-shadow: none !important
@@ -439,6 +437,25 @@ p
 					margin-right: 15px
 				&::after
 					border: 2px #000 solid
+
+	.about-second-slider
+		margin-bottom: 100px
+		.slide-item
+			width: auto
+			padding: 10px
+			.image
+				display: block
+				height: 180px
+				box-shadow: none !important
+		.slick-dots
+			bottom: -60px
+			li
+				height: 60px
+				&:not(:last-child)
+					margin-right: 15px
+				&::after
+					border: 2px #000 solid
+
 	.about-items
 		display: grid
 		grid-template-columns: repeat(8, 1fr)
@@ -569,6 +586,7 @@ p
 			margin: 5px 0 0
 			font-size: 16px
 			font-weight: 500
+			line-height: 1.2
 		&:hover
 			text-decoration: underline
 

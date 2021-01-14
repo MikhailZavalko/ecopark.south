@@ -93,7 +93,15 @@ get_header(); ?>
 							</div>
 						</div>
 
-						<div class="slide-item">
+						
+
+					</div>
+				</div>
+
+		</div>
+
+		<div class="about-second-slider">
+			<div class="slide-item">
 							<a href="<?php echo $template_url; ?>/img/about-slider/1.jpg" class="image fancybox" data-fancybox="about-slider"
 								data-thumb="<?php echo $template_url; ?>/img/about-slider/sm/1.jpg"
 								style="background: url(<?php echo $template_url; ?>/img/about-slider/sm/1.jpg) center; background-size: cover;"></a>
@@ -170,10 +178,6 @@ get_header(); ?>
 								data-thumb="<?php echo $template_url; ?>/img/about-slider/sm/13.jpg"
 								style="background: url(<?php echo $template_url; ?>/img/about-slider/sm/13.jpg) center; background-size: cover;"></a>
 						</div>
-
-					</div>
-				</div>
-
 		</div>
 
 		<div class="about-items">
@@ -230,6 +234,59 @@ get_header(); ?>
 
 	</div>
 </section>
+
+
+
+<div class="new-general-plan-section">
+	<div class="container">
+		<h3 class="type-head">Микрорайон малоэтажной застройки «Радонеж».</h3>
+		<img src="<?php echo $template_url; ?>/img/new-general-plan.jpg" alt="" class="img-responsive">
+
+		<div class="new-genplan-slides">
+			<a class="slide fancybox" href="<?php echo $template_url; ?>/img/new-genplan-slides/original/1.jpg?v=1.2" data-fancybox="new-genplan-slider">
+				<img class="img-responsive" src="<?php echo $template_url; ?>/img/new-genplan-slides/1.jpg?v=1.2" alt="slide">
+				<p>Природное водохранилище, с чистой водой, в которое впадает горная речка Матрёниха.</p>
+			</a>
+			<a class="slide fancybox" href="<?php echo $template_url; ?>/img/new-genplan-slides/original/2.jpg?v=1.2" data-fancybox="new-genplan-slider">
+				<img class="img-responsive" src="<?php echo $template_url; ?>/img/new-genplan-slides/2.jpg?v=1.2" alt="slide">
+				<p>Мостик над горной речкой.</p>
+			</a>
+			<a class="slide fancybox" href="<?php echo $template_url; ?>/img/new-genplan-slides/original/3.jpg?v=1.2" data-fancybox="new-genplan-slider">
+				<img class="img-responsive" src="<?php echo $template_url; ?>/img/new-genplan-slides/3.jpg?v=1.2" alt="slide">
+				<p>Горная речка Матрёниха берет свое начало в Хехцирском заповеднике. Шум реки и чистейшая вода только для вас.</p>
+			</a>
+			<a class="slide fancybox" href="<?php echo $template_url; ?>/img/new-genplan-slides/original/4.jpg?v=1.2" data-fancybox="new-genplan-slider">
+				<img class="img-responsive" src="<?php echo $template_url; ?>/img/new-genplan-slides/4.jpg?v=1.2" alt="slide">
+				<p>База отдыха Воздух парк с шатрово-террасной зоной и воздушными шарами!</p>
+			</a>
+			<a class="slide fancybox" href="<?php echo $template_url; ?>/img/new-genplan-slides/original/5.jpg?v=1.2" data-fancybox="new-genplan-slider">
+				<img class="img-responsive" src="<?php echo $template_url; ?>/img/new-genplan-slides/5.jpg?v=1.2" alt="slide">
+				<p>Собственный пляж на берегу природного озера. Вокруг только луга, лес, песок и вода)</p>
+			</a>
+			<a class="slide fancybox" href="<?php echo $template_url; ?>/img/new-genplan-slides/original/6.jpg?v=1.2" data-fancybox="new-genplan-slider">
+				<img class="img-responsive" src="<?php echo $template_url; ?>/img/new-genplan-slides/6.jpg?v=1.2" alt="slide">
+				<p>Чистейшее озеро полное рыбы, которую специально запускают в него. Рыбаки знают и ценят это место.</p>
+			</a>
+			<a class="slide fancybox" href="<?php echo $template_url; ?>/img/new-genplan-slides/original/7.jpg?v=1.2" data-fancybox="new-genplan-slider">
+				<img class="img-responsive" src="<?php echo $template_url; ?>/img/new-genplan-slides/7.jpg?v=1.2" alt="slide">
+				<p>Для вас домашнее козье молоко, сыр, свежие яйца.</p>
+			</a>
+			<a class="slide fancybox" href="<?php echo $template_url; ?>/img/new-genplan-slides/original/8.jpg?v=1.2" data-fancybox="new-genplan-slider">
+				<img class="img-responsive" src="<?php echo $template_url; ?>/img/new-genplan-slides/8.jpg?v=1.2" alt="slide">
+				<p>Специально выделенная 6 километровая дорожка для любителей здорового образа жизни.</p>
+			</a>
+			<a class="slide fancybox" href="<?php echo $template_url; ?>/img/new-genplan-slides/original/9.jpg?v=1.2" data-fancybox="new-genplan-slider">
+				<img class="img-responsive" src="<?php echo $template_url; ?>/img/new-genplan-slides/9.jpg?v=1.2" alt="slide">
+				<p>Лыжня. Зимой велодорожка превращается в лыжню! Занимайтесь спортом в любое время года!)</p>
+			</a>
+			<a class="slide fancybox" href="<?php echo $template_url; ?>/img/new-genplan-slides/original/10.jpg?v=1.2" data-fancybox="new-genplan-slider">
+				<img class="img-responsive" src="<?php echo $template_url; ?>/img/new-genplan-slides/10.jpg?v=1.2" alt="slide">
+				<p>В каком еще поселке вы встречали поле для гольфа?</p>
+			</a>
+		</div>
+	</div>
+
+</div>
 
 
 

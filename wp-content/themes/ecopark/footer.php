@@ -171,7 +171,7 @@ $template_url = get_template_directory_uri();
 
 </div>
 
-<script src="<?php echo $template_url; ?>/js/scripts.min.js?v=1.6"></script>
+<script src="<?php echo $template_url; ?>/js/scripts.min.js?v=1.7"></script>
 <script src="https://api-maps.yandex.ru/2.0-stable/?load=package.standard&lang=ru-RU" type="text/javascript"></script>
 <script src="//code-ya.jivosite.com/widget/lukvf9cmoq" async></script>
 
