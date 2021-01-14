@@ -273,13 +273,13 @@ get_header(); ?>
 
 					<div class="name-image">
 						<h3>Одноэтажный дом</h3>
-						<a href="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/1.jpg?v=1.2" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/sm.jpg?v=1.2) center; background-size: cover;" data-fancybox="house-1_4th_roof"></a>
+						<a href="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/1.jpg?v=1.3" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/sm.jpg?v=1.3) center; background-size: cover;" data-fancybox="house-1_4th_roof"></a>
 						<div class="d-none">
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/2.jpg?v=1.2" data-fancybox="house-1_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/2.jpg?v=1.2"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/3.jpg?v=1.2" data-fancybox="house-1_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/3.jpg?v=1.2"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/4.jpg?v=1.2" data-fancybox="house-1_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/4.jpg?v=1.2"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/5.jpg?v=1.2" data-fancybox="house-1_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/5.jpg?v=1.2"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/scheme.jpg?v=1.2" data-fancybox="house-1_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/scheme.jpg?v=1.2"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/2.jpg?v=1.3" data-fancybox="house-1_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/2.jpg?v=1.3"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/3.jpg?v=1.3" data-fancybox="house-1_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/3.jpg?v=1.3"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/4.jpg?v=1.3" data-fancybox="house-1_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/4.jpg?v=1.3"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/5.jpg?v=1.3" data-fancybox="house-1_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/5.jpg?v=1.3"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/scheme.jpg?v=1.3" data-fancybox="house-1_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/1_4th_roof/scheme.jpg?v=1.3"></a>
 						</div>
 					</div>
 
@@ -321,12 +321,12 @@ get_header(); ?>
 
 					<div class="name-image">
 						<h3>Одноэтажный дом</h3>
-						<a href="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/1.jpg?v=1.2" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/sm.jpg?v=1.2) center; background-size: cover;" data-fancybox="house-2_4th_roof"></a>
+						<a href="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/1.jpg?v=1.3" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/sm.jpg?v=1.3) center; background-size: cover;" data-fancybox="house-2_4th_roof"></a>
 						<div class="d-none">
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/2.jpg?v=1.2" data-fancybox="house-2_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/2.jpg?v=1.2"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/3.jpg?v=1.2" data-fancybox="house-2_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/3.jpg?v=1.2"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/4.jpg?v=1.2" data-fancybox="house-2_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/4.jpg?v=1.2"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/scheme.jpg?v=1.2" data-fancybox="house-2_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/scheme.jpg?v=1.2"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/2.jpg?v=1.3" data-fancybox="house-2_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/2.jpg?v=1.3"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/3.jpg?v=1.3" data-fancybox="house-2_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/3.jpg?v=1.3"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/4.jpg?v=1.3" data-fancybox="house-2_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/4.jpg?v=1.3"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/scheme.jpg?v=1.3" data-fancybox="house-2_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/2_4th_roof/scheme.jpg?v=1.3"></a>
 						</div>
 					</div>
 
@@ -367,13 +367,13 @@ get_header(); ?>
 
 					<div class="name-image">
 						<h3>Одноэтажный дом</h3>
-						<a href="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/1.jpg?v=1.2" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/sm.jpg?v=1.2) center; background-size: cover;" data-fancybox="house-3_4th_roof"></a>
+						<a href="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/1.jpg?v=1.3" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/sm.jpg?v=1.3) center; background-size: cover;" data-fancybox="house-3_4th_roof"></a>
 						<div class="d-none">
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/2.jpg?v=1.2" data-fancybox="house-3_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/2.jpg?v=1.2"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/3.jpg?v=1.2" data-fancybox="house-3_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/3.jpg?v=1.2"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/4.jpg?v=1.2" data-fancybox="house-3_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/4.jpg?v=1.2"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/5.jpg?v=1.2" data-fancybox="house-3_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/5.jpg?v=1.2"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/scheme.jpg?v=1.2" data-fancybox="house-3_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/scheme.jpg?v=1.2"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/2.jpg?v=1.3" data-fancybox="house-3_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/2.jpg?v=1.3"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/3.jpg?v=1.3" data-fancybox="house-3_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/3.jpg?v=1.3"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/4.jpg?v=1.3" data-fancybox="house-3_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/4.jpg?v=1.3"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/5.jpg?v=1.3" data-fancybox="house-3_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/5.jpg?v=1.3"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/scheme.jpg?v=1.3" data-fancybox="house-3_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/3_4th_roof/scheme.jpg?v=1.3"></a>
 						</div>
 					</div>
 
@@ -414,12 +414,12 @@ get_header(); ?>
 
 					<div class="name-image">
 						<h3>Одноэтажный дом</h3>
-						<a href="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/1.jpg?v=1.2" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/sm.jpg?v=1.2) center; background-size: cover;" data-fancybox="house-4_4th_roof"></a>
+						<a href="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/1.jpg?v=1.3" class="image fancybox" style="background: url(<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/sm.jpg?v=1.3) center; background-size: cover;" data-fancybox="house-4_4th_roof"></a>
 						<div class="d-none">
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/2.jpg?v=1.2" data-fancybox="house-4_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/2.jpg?v=1.2"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/3.jpg?v=1.2" data-fancybox="house-4_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/3.jpg?v=1.2"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/4.jpg?v=1.2" data-fancybox="house-4_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/4.jpg?v=1.2"></a>
-							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/scheme.jpg?v=1.2" data-fancybox="house-4_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/scheme.jpg?v=1.2"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/2.jpg?v=1.3" data-fancybox="house-4_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/2.jpg?v=1.3"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/3.jpg?v=1.3" data-fancybox="house-4_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/3.jpg?v=1.3"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/4.jpg?v=1.3" data-fancybox="house-4_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/4.jpg?v=1.3"></a>
+							<a class="image fancybox" href="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/scheme.jpg?v=1.3" data-fancybox="house-4_4th_roof" data-thumb="<?php echo $template_url; ?>/img/houses/single_lvl/4_4th_roof/scheme.jpg?v=1.3"></a>
 						</div>
 					</div>
 
@@ -839,17 +839,17 @@ get_header(); ?>
 		<h2 class="type-head">Ход строительства</h2>
 		<div class="gallery">
 
-			<a href="<?php// echo $template_url; ?>/img/process/1.JPG?v=1.2" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/1.jpg?v=1.2) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/1.jpg?v=1.2"></a>
+			<a href="<?php// echo $template_url; ?>/img/process/1.JPG?v=1.3" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/1.jpg?v=1.3) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/1.jpg?v=1.3"></a>
 
-			<a href="<?php// echo $template_url; ?>/img/process/2.JPG?v=1.2" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/2.jpg?v=1.2) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/2.jpg?v=1.2"></a>
+			<a href="<?php// echo $template_url; ?>/img/process/2.JPG?v=1.3" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/2.jpg?v=1.3) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/2.jpg?v=1.3"></a>
 
-			<a href="<?php// echo $template_url; ?>/img/process/3.JPG?v=1.2" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/3.jpg?v=1.2) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/3.jpg?v=1.2"></a>
+			<a href="<?php// echo $template_url; ?>/img/process/3.JPG?v=1.3" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/3.jpg?v=1.3) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/3.jpg?v=1.3"></a>
 
-			<a href="<?php// echo $template_url; ?>/img/process/4.JPG?v=1.2" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/4.jpg?v=1.2) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/4.jpg?v=1.2"></a>
+			<a href="<?php// echo $template_url; ?>/img/process/4.JPG?v=1.3" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/4.jpg?v=1.3) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/4.jpg?v=1.3"></a>
 
-			<a href="<?php// echo $template_url; ?>/img/process/5.JPG?v=1.2" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/5.jpg?v=1.2) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/5.jpg?v=1.2"></a>
+			<a href="<?php// echo $template_url; ?>/img/process/5.JPG?v=1.3" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/5.jpg?v=1.3) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/5.jpg?v=1.3"></a>
 
-			<a href="<?php// echo $template_url; ?>/img/process/6.JPG?v=1.2" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/6.jpg?v=1.2) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/6.jpg?v=1.2"></a>
+			<a href="<?php// echo $template_url; ?>/img/process/6.JPG?v=1.3" class="image fancybox" style="background: url(<?php// echo $template_url; ?>/img/process/sm/6.jpg?v=1.3) center; background-size: cover;" data-fancybox="progress" data-thumb="<?php// echo $template_url; ?>/img/process/sm/6.jpg?v=1.3"></a>
 
 		</div>
 	</div>
@@ -925,11 +925,11 @@ get_header(); ?>
 		</div>
 
 		<div class="technology-images">
-			<a href="<?php echo $template_url; ?>/img/technology-people-big.jpg?v=1.2" class="technology-image image" data-fancybox>
-				<img src="<?php echo $template_url; ?>/img/technology-people-small.jpg?v=1.2" alt="technology" class="img-responsive">
+			<a href="<?php echo $template_url; ?>/img/technology-people-big.jpg?v=1.3" class="technology-image image" data-fancybox>
+				<img src="<?php echo $template_url; ?>/img/technology-people-small.jpg?v=1.3" alt="technology" class="img-responsive">
 			</a>
-			<a href="<?php echo $template_url; ?>/img/technology-classic-big.jpg?v=1.2" class="technology-image image" data-fancybox>
-				<img src="<?php echo $template_url; ?>/img/technology-classic-small.jpg?v=1.2" alt="technology" class="img-responsive">
+			<a href="<?php echo $template_url; ?>/img/technology-classic-big.jpg?v=1.3" class="technology-image image" data-fancybox>
+				<img src="<?php echo $template_url; ?>/img/technology-classic-small.jpg?v=1.3" alt="technology" class="img-responsive">
 			</a>
 		</div>
 
