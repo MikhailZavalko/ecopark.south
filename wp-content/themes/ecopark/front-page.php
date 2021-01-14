@@ -13,7 +13,7 @@ get_header(); ?>
 		<div class="slide" style="background: url('<?php echo $template_url; ?>/img/slides/1.jpg') center no-repeat; background-size: cover;"></div>
 		<div class="slide" style="background: url('<?php echo $template_url; ?>/img/slides/2.jpg') center no-repeat; background-size: cover;"></div>
 		<div class="slide" style="background: url('<?php echo $template_url; ?>/img/slides/3.jpg') center no-repeat; background-size: cover;"></div>
-		<div class="slide" style="background: url('<?php echo $template_url; ?>/img/slides/4.jpg') center no-repeat; background-size: cover;"></div>
+		<!-- <div class="slide" style="background: url('<?php// echo $template_url; ?>/img/slides/4.jpg') center no-repeat; background-size: cover;"></div> -->
 	</div>
 
 	<div class="top-content">
